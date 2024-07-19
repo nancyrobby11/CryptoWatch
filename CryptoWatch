@@ -1,0 +1,19 @@
+CryptoWatch/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── crypto_watch.py
+├── data/
+│   ├── README.md
+├── tests/
+│   ├── __init__.py
+│   └── test_crypto_watch.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
